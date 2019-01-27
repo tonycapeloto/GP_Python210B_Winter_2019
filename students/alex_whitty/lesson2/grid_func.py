@@ -1,4 +1,9 @@
 
+"""Wrote several functions that takes one argument and prints a grid."""
+
+
+
+
 def plus():
     plus = '+'
     return plus

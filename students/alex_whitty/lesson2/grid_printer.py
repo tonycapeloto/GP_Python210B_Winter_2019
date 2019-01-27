@@ -1,4 +1,4 @@
-
+"""Wrote starter code to draw grid"""
 
 plus = '+'
 minus = ' - ' * 4
